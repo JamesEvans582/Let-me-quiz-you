@@ -40,22 +40,43 @@ And within the Javascript I referenced my questions, this is to essentially make
 ---------------------------------------------------------- The Result --------------------------------------------------------------
 Opening page 
 
-<img width="1792" alt="Screenshot 2023-03-06 at 17 23 22" src="https://user-images.githubusercontent.com/71371405/223185428-8501e55d-1b11-45d0-a5d5-4238963beb84.png">
+
+<img width="1792" alt="Screenshot 2023-03-06 at 17 23 13" src="https://user-images.githubusercontent.com/71371405/223187032-4e85301f-6c10-40c7-b8e7-316a1c475d85.png">
+
+
+
+
+
 
 Rules of the game
 
 <img width="1792" alt="Screenshot 2023-03-06 at 17 23 22" src="https://user-images.githubusercontent.com/71371405/223185573-1ac27edf-6b42-4b2e-bde6-a51cec31a6d7.png">
 
+
+
+
+
 Quiz begins 
 
 <img width="1792" alt="Screenshot 2023-03-06 at 17 23 41" src="https://user-images.githubusercontent.com/71371405/223185719-ce715560-f7b9-46da-bf63-ee0b2c571ff1.png">
+
+
+
 
 Green for correct answer
 
 <img width="1792" alt="Screenshot 2023-03-06 at 17 24 22" src="https://user-images.githubusercontent.com/71371405/223185868-129f364d-46d5-4373-9167-26efc6d2bea4.png">
 
+
+
+
+
 red for incorrect answer 
 <img width="1792" alt="Screenshot 2023-03-06 at 17 24 56" src="https://user-images.githubusercontent.com/71371405/223185971-566323d6-8974-43fe-9830-8684f24daa41.png">
+
+
+
+
 
 Results of the quiz 
 
